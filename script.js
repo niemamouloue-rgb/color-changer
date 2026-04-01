@@ -21,7 +21,6 @@ document.addEventListener("DOMContentLoaded", function () {
     box.style.backgroundColor = newColor;
 
   
-    document.body.style.backgroundColor = newColor;
   });
 
 });
